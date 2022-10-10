@@ -16,6 +16,10 @@
     max-width: 100%;
 }
 
+h2{
+    margin-top: 1.25rem;
+}
+
 .box{
     background-color: blue;
     color: white;
